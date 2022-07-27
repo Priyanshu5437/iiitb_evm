@@ -1,1 +1,1 @@
-# iiitb_evm-electronic voting machine
+# iiitb_evm-Electronic Voting Machine
